@@ -7,6 +7,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Eric chupa pitos");
+		System.out.println("Hola Mundo");
 	}
 
 }
